@@ -1,0 +1,13 @@
+.timer {
+  display: flex;
+  justify-content: center;
+  color: #212121;
+}
+.field {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 40px;
+  margin-right: 10px;
+}
+.value {
+  border-bottom: 1px solid gray;
+}
